@@ -1,0 +1,1 @@
+The overall code combines both the piezo and the heartbeat sensor code. Was created for simultaneous reading.
