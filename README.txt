@@ -13,7 +13,7 @@ Sreenivas Kandhade
 Sumanth V Rao
 
 csv files created and ipython files of data analytics along with some photos
-and a video are uploaded.
+are uploaded.
 
 ipython notebook output note showing properly. Kindly download the file and 
 check it on jupyter notebook
